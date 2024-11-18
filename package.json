@@ -1,0 +1,16 @@
+{
+  "name": "coursera-ibm-nodejs-mongodb-jwt-customer-portal",
+  "version": "1.0.0",
+  "description": "https://www.coursera.org/specializations/javascript-programming-with-react-node-mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
